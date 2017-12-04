@@ -2,6 +2,7 @@
 using namespace std;
 
 int main()
+{
 	unsigned int n;
 	unsigned long long factorial = 1;
 
